@@ -1,0 +1,18 @@
+{
+  "name": "Buku Kas — Catatan Usaha",
+  "short_name": "Buku Kas",
+  "description": "Aplikasi pencatatan keuangan usaha sederhana",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#EFE8D6",
+  "theme_color": "#1F4D3A",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
