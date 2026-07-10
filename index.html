@@ -339,6 +339,7 @@ async function addTransaction(){
 }
 
 async function deleteTransaction(id){
+  if(!confirm('Hapus catatan ini?')) return;
   state.transactions = state.transactions.filter(t=>t.id!==id);
   await saveData();
   render();
