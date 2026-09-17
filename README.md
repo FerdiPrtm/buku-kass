@@ -2,6 +2,8 @@
 
 Aplikasi web sederhana untuk mencatat pemasukan dan pengeluaran usaha kecil. Dibuat sebagai satu file HTML tanpa perlu server, framework, atau database — cukup buka dan langsung dipakai.
 
+![Screenshot Buku Kas](screenshot.png)
+
 ## Fitur
 
 - **Catat transaksi** — Pemasukan (uang masuk) atau Pengeluaran (uang keluar) dengan tanggal, kategori, keterangan, dan jumlah.
